@@ -1,0 +1,16 @@
+#maincontents{
+  width: 65%;
+  float: right;
+  padding:0;
+  z-index: 9;
+}
+#maincontents h1{
+  text-align: left;
+  font-size: 70px;
+}
+#maincontents .zamblog{
+  margin-right: 80px;
+}
+#maincontents .zamfolder{
+  margin-left:80px;
+}

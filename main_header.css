@@ -1,0 +1,45 @@
+body{
+  background: #FFFFFF;
+  margin:0;
+  padding:0;
+}
+header{
+  background-image: url("/var/www/zamitc.com/public_html/pics/header4.jpg");
+  background-size: cover;
+  height: 300px;
+  width: 100%;
+  z-index: 10;
+}
+  .logo{
+    float: left;
+    margin-left: 5%;
+    margin-top: 2%;
+  }
+  .headtext{
+    text-align: center;
+    font-size: 30px;
+    color:white;
+    float: right;
+    margin-right: 30%;
+  }
+.navigation{
+  float: right;
+  margin-right: 30%;
+}
+.navigation ul{
+  background: #FFFFCC;
+  float:right;
+  margin:20px;
+  padding:5px;
+  list-style: none;
+  position:sticky;
+}
+.navigation ul li{
+  float:left;
+}
+.navigation ul li a {
+  color:#000000;
+  text-decoration:none;
+  margin-left: 20px;
+  margin-right: 20px;
+}

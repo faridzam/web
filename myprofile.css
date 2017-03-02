@@ -1,0 +1,20 @@
+#myprofile{
+  width: 25%;
+  height: 100px;
+  margin:0;
+  margin-top: 20px;
+  padding:0;
+  z-index: 11;
+}
+#myprofile .propic {
+  margin-left: 90px;
+
+}
+#myprofile .personprof {
+  text-align: center;
+  margin-left: 10px;
+}
+#myprofile .quotes h1 {
+  font-size: 18px;
+  text-align: center;
+}
